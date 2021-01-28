@@ -10,7 +10,7 @@
 * [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
 * [logname](https://github.com/DeekshithSN/Unix_and_shell/wiki/logname)
 * [cat](https://github.com/DeekshithSN/Unix_and_shell/wiki/cat)
-* Input and output redirection 
+* [Input and output redirection](https://github.com/DeekshithSN/Unix_and_shell/wiki/Input-and-output-redirection) 
 * cp
 * rm
 * mv
