@@ -46,7 +46,7 @@ if file abc.txt exists then the content copied to pqr.txt else its a error, the 
 
 `r w x | r w x | r w x`
 
-first 3 characters ( 1st to 3rd)  - user related permission
-4th to 6th character - group related permission 
-7th to 9th character - others related permission
+* first 3 characters ( 1st to 3rd)  - user related permission
+* 4th to 6th character - group related permission 
+* 7th to 9th character - others related permission
  
