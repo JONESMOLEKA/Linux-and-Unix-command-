@@ -2,7 +2,7 @@
 
 ## basics
 * [man](https://github.com/DeekshithSN/Unix_and_shell/wiki/man)
-* ls
+* [ls](https://github.com/DeekshithSN/Unix_and_shell/wiki/ls)
 * who, whoami 
 * linux file system structure
 * file types in linux
