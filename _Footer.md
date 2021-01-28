@@ -1,0 +1,1 @@
+NOTE: While the options provided here work on most UNIX systems, some UNIX flavors may have changed their meanings or uses. If you experience an incompatibility with these options, please consult the cat manual page (see man command) on your system for a list of compatible options.
