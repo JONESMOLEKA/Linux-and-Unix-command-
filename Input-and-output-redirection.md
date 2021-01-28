@@ -41,4 +41,12 @@ if you want to redirect error output to file then we can use 2>
 - cat abc.txt > pqr.txt 2> err.txt
 if file abc.txt exists then the content copied to pqr.txt else its a error, the error output will be sent to err.txt
 
+
+# file permission 
+
+`r w x | r w x | r w x`
+
+first 3 characters ( 1st to 3rd)  - user related permission
+4th to 6th character - group related permission 
+7th to 9th character - others related permission
  
