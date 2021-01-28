@@ -37,6 +37,7 @@ __Symbolic link file(l)__,
 __Socket file(s)__
 
 1. block file 
+
 These files are hardware files most of them are present in /dev.
 ```
         brw-rw---- 1 root disk 8, 1 2020-02-15 09:35 sda1
@@ -45,6 +46,7 @@ These files are hardware files most of them are present in /dev.
 ```
 
 2. CHARACTER DEVICE FILES
+
 Provides a serial stream of input or output.Your terminals are classic example for this type of files.
 ```
         crw-rw-rw- 1 root tty 5, 0 2020-02-15 16:52 tty
@@ -53,6 +55,7 @@ Provides a serial stream of input or output.Your terminals are classic example f
 ```
 
 3. pipe files 
+
 The other name of pipe is a “named” pipe, which is sometimes called a FIFO. FIFO stands for “First In, First Out” and refers to the property that the order of bytes going in is the same coming out. The “name” of a named pipe is actually a file name within the file system.
 ```
         prw-r----- 1 root root 0 2020-02-15 09:35 /dev/.initramfs/usplash_outfifo
@@ -61,6 +64,7 @@ The other name of pipe is a “named” pipe, which is sometimes called a FIFO. 
 ```
 
 4. symbolic link files 
+
 These are linked files to other files. They are either Directory/Regular File. The inode number for this file and it’s parent files are same. There are two types of link files available in Linux/Unix ie soft and hard link.
 
 ```
@@ -68,6 +72,14 @@ These are linked files to other files. They are either Directory/Regular File. T
 	lrwxrwxrwx 1 root root 15 2020-02-15 09:35 stderr -> /proc/self/fd/2
 	lrwxrwxrwx 1 root root 15 2020-02-15 09:35 stdin -> /proc/self/fd/0
 	lrwxrwxrwx 1 root root 15 2020-02-15 09:35 stdout -> /proc/self/fd/1
+```
+5. socket files 
+A socket file is used to pass information between applications for communication purpose
+
+```
+        srwxrwxrwx 1 root root 0 2010-02-15 10:07 /var/run/cups/cups.sock
+	srwxrwxrwx 1 root root 0 2010-02-15 09:35 /var/run/samba/winbindd_privileged/pipe
+	srwxrwxrwx 1 mysql mysql 0 2010-02-15 09:35 /var/run/mysqld/mysqld.sock
 ```
 
 So in practical we have total 7 types(1+1+5) of files in Linux/Unix. And in Solaris we have 8 types. And you can see the file type indication at leftmost part of “ls -l” command.
