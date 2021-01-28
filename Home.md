@@ -1,7 +1,7 @@
 # what you learn ? 
 
 ## basics
-* man
+* [man](https://github.com/DeekshithSN/Unix_and_shell/wiki/man)
 * ls
 * who, whoami 
 * linux file system structure
