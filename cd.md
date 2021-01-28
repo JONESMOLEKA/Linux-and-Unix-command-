@@ -19,3 +19,26 @@ The root directory is represented by a single slash ("/").
 To change into the root directory, making it your working directory, use the command:
 
 `cd /`
+
+**The working directory**
+The current directory, regardless of which directory it is, is represented by a single dot (".").
+
+So, running this command:
+
+`cd .`
+
+...would change us into the current directory. In other words, it would do nothing.
+
+What's actually happening is the dot represents the "assumed" directory; it's a placeholder, and you can use the dot anywhere in a directory name. So, the command:
+
+`cd documents`
+...is the same as the command:
+
+`cd ./documents`
+...and also the same as:
+
+`cd documents/.`
+...as well as:
+
+`cd ./documents/.`
+In all of these examples, the dot represents "the directory assumed to be there". You can use it as a placeholder anywhere you want to tell the shell that a directory goes in that place, and to assume the appropriate value.
