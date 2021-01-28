@@ -1,7 +1,8 @@
 This command is used to delete files 
 
 **Syntax** 
-` rm [options] file-list`
+
+`rm [options] file-list`
 
 
 Option	| Function
