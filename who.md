@@ -5,6 +5,7 @@ The who command prints information about all users who are currently logged in.
 `who [ OPTION ]... [ FILE ] [ am i ]`
 
 
+
 Options| Description 
 -------|-------------
 -a, --all	|Same as using the options -b -d --login -p -r -t -T -u.
@@ -26,3 +27,14 @@ Options| Description
 --writable	|Same as -T.
 --help	|Display a help message, and exit.
 --version	|Display version information, and exit.
+
+
+**examples** 
+
+`who am i`
+
+Displays the same information, but only for the terminal session where the command was issued, for example:
+
+`who -aH`
+
+Displays "all" information, and headers above each column of data
