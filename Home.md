@@ -7,7 +7,7 @@
 * linux file system structure
 * file types in linux
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
-* cd
+* [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
 * logname
 * cat
 * Input and output redirection 
