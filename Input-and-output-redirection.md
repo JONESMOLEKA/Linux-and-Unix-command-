@@ -24,3 +24,21 @@ To redirect output for some file use >
 - ls -l > newfile
 
 **NOTE** - if you are redirecting output to file which has already content, then the content will be overridden 
+
+## Append redirection (>>)
+
+to append output to given file 
+
+**Example:-**
+- cat file1 >> result 
+- ls -l >> result 
+
+## Error redirection (2>)
+
+if you want to redirect error output to file then we can use 2>
+
+**Example:-**
+- cat abc.txt > pqr.txt 2> err.txt
+if file abc.txt exists then the content copied to pqr.txt else its a error, the error output will be sent to err.txt
+
+ 
