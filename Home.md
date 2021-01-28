@@ -12,7 +12,7 @@
 * [cat](https://github.com/DeekshithSN/Unix_and_shell/wiki/cat)
 * [Input and output redirection](https://github.com/DeekshithSN/Unix_and_shell/wiki/Input-and-output-redirection) 
 * [cp](https://github.com/DeekshithSN/Unix_and_shell/wiki/cp)
-* rm
+* [rm](https://github.com/DeekshithSN/Unix_and_shell/wiki/rm)
 * mv
 * wc
 * cmp
