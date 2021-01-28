@@ -11,4 +11,7 @@ Option|	Description
 -n	|Starting at 1, number all output lines.
 -t	|Each tab will display as ^I and each form feed will display as ^L. (May require the -v option)
 -u	|Output is displayed unbuffered.
--v	|Display control and non-printing characters. Control characters print as ^B for control-B. Non-ASCII characters with the high bit set display as 
+-v	|Display control and non-printing characters. Control characters print as ^B for control-B. Non-ASCII characters with the high bit set display as "M-" followed by their lower 7-bit value. 
+
+files
+A list of file names separated by spaces that cat will concatenate the contents of.
