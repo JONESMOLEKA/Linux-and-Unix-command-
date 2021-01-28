@@ -5,7 +5,7 @@
 * [man](https://github.com/DeekshithSN/Unix_and_shell/wiki/man)
 * [ls](https://github.com/DeekshithSN/Unix_and_shell/wiki/ls)
 * [who, whoami](https://github.com/DeekshithSN/Unix_and_shell/wiki/who) 
-* file types in linux
+* [file types in linux](https://github.com/DeekshithSN/Unix_and_shell/wiki/file-types-in-linux)
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
 * [logname](https://github.com/DeekshithSN/Unix_and_shell/wiki/logname)
