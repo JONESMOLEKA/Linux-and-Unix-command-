@@ -15,3 +15,11 @@ Option	| Description according to GNU utils
 -s or –symbolic-link	|In this case, the command will make symbolic links of all files that are not folders. This replaces a copy.
 -u or –update	|This option does not copy files that have the same or newer modification timestamp in the destination folder. It is an update of a copy.
 -v or –verbose	|Print the name of each file before copying it.
+
+**Examples:- **
+
+- cp newfile.txt anotherfile.txt
+- cp newfile.txt test/nfile.txt
+- cp *.txt *.dat
+
+cat newfile.txt > anotherfile.txt = cp newfile.txt anotherfile.txt
