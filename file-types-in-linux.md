@@ -2,7 +2,7 @@
 
 By default Unix have only 3 types of files. They are..
 
-* Regular files:- 
+* **Regular files**
  
  These are the files which are indicated with "-" in ls -l command output at the starting of the line. And these files are.
  1. Readable file or
@@ -17,8 +17,18 @@ By default Unix have only 3 types of files. They are..
 	-r-xr-xr-x 1 root root 135168 2009-12-12 19:14 VIDEO_TS.VOB
 	-rwxrwxrwx 1 root root 168 2010-02-14 14:12 xyz.sh
 ```
-* Directory files
-* Special files(This category is having 5 sub types in it.)
+* **Directory files**
+
+These type of files contains regular files/folders/special files stored on a physical device. And this type of files will be in blue in color with link greater than or equal 2.
+
+```
+        drwxr-xr-x 2 surendra surendra 4096 2010-01-19 18:37 bin
+	drwxr-xr-x 5 surendra surendra 4096 2010-02-15 18:46 Desktop
+	drwxr-xr-x 2 surendra surendra 4096 2010-01-18 14:36 Documents
+	drwxr-xr-x 2 surendra surendra 4096 2010-02-13 17:45 Downloads
+```
+
+* **Special files(This category is having 5 sub types in it.)**
 
 __Block file(b)__,
 __Character device file(c)__,
