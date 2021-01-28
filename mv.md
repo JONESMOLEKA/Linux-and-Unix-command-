@@ -1,0 +1,1 @@
+the mv command used to rename file or group of files as well as directories 
