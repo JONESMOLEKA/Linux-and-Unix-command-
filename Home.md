@@ -1,10 +1,10 @@
 # what you learn ? 
 
 ## basics
+* [Linux file system structure](https://github.com/DeekshithSN/Unix_and_shell/wiki/linux-file-system-structure)
 * [man](https://github.com/DeekshithSN/Unix_and_shell/wiki/man)
 * [ls](https://github.com/DeekshithSN/Unix_and_shell/wiki/ls)
 * [who, whoami](https://github.com/DeekshithSN/Unix_and_shell/wiki/who) 
-* linux file system structure
 * file types in linux
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
