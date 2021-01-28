@@ -13,5 +13,4 @@ Option|	Description
 -u	|Output is displayed unbuffered.
 -v	|Display control and non-printing characters. Control characters print as ^B for control-B. Non-ASCII characters with the high bit set display as "M-" followed by their lower 7-bit value. 
 
-files
 A list of file names separated by spaces that cat will concatenate the contents of.
