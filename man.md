@@ -3,3 +3,5 @@ on line help provided by the man command includes brief description, options and
 ex:- to get more information about passwd
 
 - man passwd
+- man ls
+- man cd
