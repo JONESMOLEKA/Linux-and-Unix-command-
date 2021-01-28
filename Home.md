@@ -8,7 +8,7 @@
 * file types in linux
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
-* logname
+* [logname](https://github.com/DeekshithSN/Unix_and_shell/wiki/logname)
 * cat
 * Input and output redirection 
 * cp
