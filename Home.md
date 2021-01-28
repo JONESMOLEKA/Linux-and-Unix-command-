@@ -23,6 +23,18 @@
 * chmod
 * mkdir
 * rmdir
+* pipe symbol 
+* echo 
+* export
+* source
+* xargs
+* wget
+* curl
+* ping
+* cron
+* tar
+* basename
+* xargs
 
 ## filter command
 * head
@@ -35,5 +47,25 @@
 * grep
 * fgrep
 * egrep
+
+
+## process commands
+* ps
+* kill
+* nohup
+* top
+* netstat
+* nslookup
+* ifconfig
+
+## user management commands 
+* useradd
+* passwd
+* usermod
+* userdel
+* groupmod
+* groupdel
+* getent
+
 
 ## shell
