@@ -9,7 +9,6 @@
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * cd
 * logname
-* ls
 * cat
 * Input and output redirection 
 * cp
