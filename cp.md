@@ -16,7 +16,7 @@ Option	| Description according to GNU utils
 -u or –update	|This option does not copy files that have the same or newer modification timestamp in the destination folder. It is an update of a copy.
 -v or –verbose	|Print the name of each file before copying it.
 
-**Examples:- **
+**Examples:-**
 
 - cp newfile.txt anotherfile.txt
 - cp newfile.txt test/nfile.txt
