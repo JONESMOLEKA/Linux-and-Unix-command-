@@ -74,6 +74,7 @@ These are linked files to other files. They are either Directory/Regular File. T
 	lrwxrwxrwx 1 root root 15 2020-02-15 09:35 stdout -> /proc/self/fd/1
 ```
 5. socket files 
+
 A socket file is used to pass information between applications for communication purpose
 
 ```
