@@ -6,7 +6,7 @@
 * [who, whoami](https://github.com/DeekshithSN/Unix_and_shell/wiki/who) 
 * linux file system structure
 * file types in linux
-* pwd
+* [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * cd
 * logname
 * ls
