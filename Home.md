@@ -11,7 +11,7 @@
 * [logname](https://github.com/DeekshithSN/Unix_and_shell/wiki/logname)
 * [cat](https://github.com/DeekshithSN/Unix_and_shell/wiki/cat)
 * [Input and output redirection](https://github.com/DeekshithSN/Unix_and_shell/wiki/Input-and-output-redirection) 
-* cp
+* [cp](https://github.com/DeekshithSN/Unix_and_shell/wiki/cp)
 * rm
 * mv
 * wc
