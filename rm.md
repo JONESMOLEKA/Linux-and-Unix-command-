@@ -1,5 +1,9 @@
 This command is used to delete files 
 
+**Syntax** 
+` rm [options] file-list`
+
+
 Option	| Function
 --------|----------
 –interactive -i	| Provides an interactive prompt before removing file.
