@@ -9,7 +9,7 @@
 * [pwd](https://github.com/DeekshithSN/Unix_and_shell/wiki/pwd)
 * [cd](https://github.com/DeekshithSN/Unix_and_shell/wiki/cd)
 * [logname](https://github.com/DeekshithSN/Unix_and_shell/wiki/logname)
-* cat
+* [cat](https://github.com/DeekshithSN/Unix_and_shell/wiki/cat)
 * Input and output redirection 
 * cp
 * rm
