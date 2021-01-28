@@ -16,4 +16,8 @@ wc -c | Displays the count of bytes in a file.
 wc -m | prints the count of characters from a file.
 wc -L | prints only the length of the longest line in a file.
 
-
+**Examples** 
+- wc test.txt
+- wc -l test.txt ( gives number of line number of a file )
+- wc -c test.txt
+- wc -w 
