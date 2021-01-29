@@ -21,7 +21,7 @@
 * [tr](https://github.com/DeekshithSN/Unix_and_shell/wiki/tr)
 * [chmod](https://github.com/DeekshithSN/Unix_and_shell/wiki/chmod)
 * [mkdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/mkdir)
-* rmdir
+* [rmdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/rmdir)
 * pipe symbol 
 * echo 
 * export
