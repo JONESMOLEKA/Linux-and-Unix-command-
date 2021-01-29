@@ -20,7 +20,7 @@
 * [diff](https://github.com/DeekshithSN/Unix_and_shell/wiki/diff)
 * [tr](https://github.com/DeekshithSN/Unix_and_shell/wiki/tr)
 * [chmod](https://github.com/DeekshithSN/Unix_and_shell/wiki/chmod)
-* mkdir
+* [mkdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/mkdir)
 * rmdir
 * pipe symbol 
 * echo 
