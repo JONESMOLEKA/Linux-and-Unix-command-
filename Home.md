@@ -18,7 +18,7 @@
 * [cmp](https://github.com/DeekshithSN/Unix_and_shell/wiki/cmp)
 * [comm](https://github.com/DeekshithSN/Unix_and_shell/wiki/comm)
 * [diff](https://github.com/DeekshithSN/Unix_and_shell/wiki/diff)
-* tr
+* [tr](https://github.com/DeekshithSN/Unix_and_shell/wiki/tr)
 * chmod
 * mkdir
 * rmdir
