@@ -19,7 +19,7 @@
 * [comm](https://github.com/DeekshithSN/Unix_and_shell/wiki/comm)
 * [diff](https://github.com/DeekshithSN/Unix_and_shell/wiki/diff)
 * [tr](https://github.com/DeekshithSN/Unix_and_shell/wiki/tr)
-* chmod
+* [chmod](https://github.com/DeekshithSN/Unix_and_shell/wiki/chmod)
 * mkdir
 * rmdir
 * pipe symbol 
