@@ -44,3 +44,9 @@ Apple
 Banana
 Orange
 ```
+- $ comm -12 < (sort words.txt | uniq) < (sort countries.txt | uniq)
+```
+India
+US
+Canada
+```
