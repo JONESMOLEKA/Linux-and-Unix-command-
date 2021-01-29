@@ -16,7 +16,7 @@
 * [mv](https://github.com/DeekshithSN/Unix_and_shell/wiki/mv)
 * [wc](https://github.com/DeekshithSN/Unix_and_shell/wiki/wc)
 * [cmp](https://github.com/DeekshithSN/Unix_and_shell/wiki/cmp)
-* comm
+* [comm](https://github.com/DeekshithSN/Unix_and_shell/wiki/comm)
 * diff
 * tr
 * chmod
