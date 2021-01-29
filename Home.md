@@ -15,7 +15,7 @@
 * [rm](https://github.com/DeekshithSN/Unix_and_shell/wiki/rm)
 * [mv](https://github.com/DeekshithSN/Unix_and_shell/wiki/mv)
 * [wc](https://github.com/DeekshithSN/Unix_and_shell/wiki/wc)
-* cmp
+* [cmp](https://github.com/DeekshithSN/Unix_and_shell/wiki/cmp)
 * comm
 * diff
 * tr
