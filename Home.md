@@ -24,9 +24,9 @@
 * [rmdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/rmdir)
 * [pipe symbol](https://github.com/DeekshithSN/Unix_and_shell/wiki/rmdir) 
 * [echo](https://github.com/DeekshithSN/Unix_and_shell/wiki/echo) 
-* export
-* source
-* xargs
+* [export](https://github.com/DeekshithSN/Unix_and_shell/wiki/export)
+* [source](https://github.com/DeekshithSN/Unix_and_shell/wiki/source)
+* [xargs](https://github.com/DeekshithSN/Unix_and_shell/wiki/xargs)
 * wget
 * curl
 * ping
