@@ -22,3 +22,11 @@ Short Option	|Long Option	|Option Description
 -s|	–quiet –silent	|Output nothing; yield exit status only.
 -v|	–version|	Output version info.
 -|–help|	Output this help.
+
+**Example** 
+
+- cmp file1.txt file2.txt
+```
+file1.txt file2.txt differ: byte 23, line 1
+Can any one explain what is the meaning for byte:23, line 1 in output
+```
