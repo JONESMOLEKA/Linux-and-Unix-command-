@@ -6,11 +6,16 @@ diff [options] File1 File2
 ```
 
 **Special symbols are:**
-```
-a : add
-c : change
-d : delete
-```
+
+Symbol |Meaning
+-------|--------
+A	|Add
+C	|Change
+D	|Delete
+'#'	| Line numbers
+'– – –'	|Separates Files in Output
+<	|File 1
+'>'	|File 2
 
 **Examples** 
 
