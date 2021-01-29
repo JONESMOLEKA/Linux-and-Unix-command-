@@ -22,7 +22,7 @@
 * [chmod](https://github.com/DeekshithSN/Unix_and_shell/wiki/chmod)
 * [mkdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/mkdir)
 * [rmdir](https://github.com/DeekshithSN/Unix_and_shell/wiki/rmdir)
-* [pipe symbol](https://github.com/DeekshithSN/Unix_and_shell/wiki/rmdir) 
+* [pipe symbol](https://github.com/DeekshithSN/Unix_and_shell/wiki/pipe-symbol-(-%7C-)) 
 * [echo](https://github.com/DeekshithSN/Unix_and_shell/wiki/echo) 
 * [export](https://github.com/DeekshithSN/Unix_and_shell/wiki/export)
 * [source](https://github.com/DeekshithSN/Unix_and_shell/wiki/source)
