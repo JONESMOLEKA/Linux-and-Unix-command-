@@ -17,6 +17,19 @@ D	|Delete
 <	|File 1
 '>'	|File 2
 
+Options	|Description
+--------|-----------
+ –normal	| The output displayed is a normal difference (the one that is displayed by default)
+-q, –brief	|It reports only if the files differ
+-s, –report-identical-files	 |It reports if two files are the same and have no differences between them
+ -y, –side-by-side	|The output is displayed in two-column format
+ -t, –expand-tabs	|It will help in expanding the tabs to spaces in the output format.
+ -r, –recursive	|It will recursively help in comparing any subdirectories that are found
+ -i, –ignore-case	|This option is used in ignoring any case diff in file data.
+ -a, –text	 |This option will be treating all the files as text
+ –help	 |Prints the options that are available and will exit
+-v, –version	 |output version information and exit
+
 **Examples** 
 
 Lets say we have two files with names a.txt and b.txt containing 5 Indian states.
