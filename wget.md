@@ -16,4 +16,4 @@ Option	|Effect
 -limit-rate=maxlim	|This option is used to limit the download speed for the wget command. This helps the user to dictate the amount of bandwidth to be allocated for a download.
 
 **Example**
-- wget -c <file URL>
+- wget https://updates.jenkins-ci.org/download/war/2.277/jenkins.war
