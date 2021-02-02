@@ -39,26 +39,40 @@ Becomes, http://www.one.com, http://www.two.com and http://www.three.com.
 ```
 Here the first url will refer to every 5’th file and second url with refer to every second letter.
 
-CURL Command Options
+**CURL Command Options**
 
 curl command comes with large number of command line options. Which provides it great flexibility to perform various tasks. Here we will describe you some frequently used command options with curl command.
 
--s or --silent – While using this option, the command runs silently in background. No progress will be displayed on screen. Only the command result will be displayed.
+* -s or --silent – While using this option, the command runs silently in background. No progress will be displayed on screen. Only the command result will be displayed.
+```
 curl -s http://www.example.com 
--O – The capital letter “O” is used to download a file using curl command. The filename will remain same on local system as on remote.
+```
+* -O – The capital letter “O” is used to download a file using curl command. The filename will remain same on local system as on remote.
+```
 curl -O http://www.example.com/backup.zip 
--o or --output FILE – Use this option to write all data to file instead of displaying at standard output.
+```
+* -o or --output FILE – Use this option to write all data to file instead of displaying at standard output.
+```
 curl -o file.txt http://www.example.com 
+```
 While downloading a file, use this option to save file on local machine with provided name.
-
+```
 curl -o local.zip http://www.example.com/remote.zip 
--I or --head – Use this option to view the document information only. This will not download the content or file from server.
+```
+* -I or --head – Use this option to view the document information only. This will not download the content or file from server.
 This is also useful to view header only details for a domain.
-
+```
 curl -I http://www.example.com 
--u or --user – Use this option to send authentication details with curl request. It is useful to download files from authenticated ftp server or web servers.
-curl -u "username:password" -O ftp://ftp.example.com/remote.zip 
--T – curl also allows you to upload a file to remote ftp server. To upload a file use -T option followed by the local file name. If the remote server required authentication, make sure to provide authentication details with “-u” option.
+```
+*  -u or --user – Use this option to send authentication details with curl request. It is useful to download files from authenticated ftp server or web servers.
+```
+curl -u "username:password" -O ftp://ftp.example.com/remote.zip
+``` 
+*  -T – curl also allows you to upload a file to remote ftp server. To upload a file use -T option followed by the local file name. If the remote server required authentication, make sure to provide authentication details with “-u” option.
+```
 curl -u ftpuser:ftppassword -T localfile.zip ftp://ftp.example.com/files/ 
--x or -–proxy – You can route your curl request via a proxy server. You can define proxy server with -x option.
+```
+*  -x or -–proxy – You can route your curl request via a proxy server. You can define proxy server with -x option.
+```
 curl -x some.proxy.com:3128 http://www.example.com 
+```
