@@ -33,7 +33,7 @@
 * cron
 * tar
 * basename
-* xargs
+
 
 ## filter command
 * head
