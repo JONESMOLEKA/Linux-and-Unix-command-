@@ -27,9 +27,9 @@
 * [export](https://github.com/DeekshithSN/Unix_and_shell/wiki/export)
 * [source](https://github.com/DeekshithSN/Unix_and_shell/wiki/source)
 * [xargs](https://github.com/DeekshithSN/Unix_and_shell/wiki/xargs)
-* wget
-* curl
-* ping
+* [wget](https://github.com/DeekshithSN/Unix_and_shell/wiki/wget)
+* [curl](https://github.com/DeekshithSN/Unix_and_shell/wiki/curl)
+* [ping](https://github.com/DeekshithSN/Unix_and_shell/wiki/ping)
 * cron
 * tar
 * basename
