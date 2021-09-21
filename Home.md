@@ -44,8 +44,7 @@
 * tee
 * find
 * grep
-* fgrep
-* egrep
+
 
 
 ## process commands
